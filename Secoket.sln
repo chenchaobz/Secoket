@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecoketServer", "Secoket\SecoketServer.csproj", "{426FAEEE-3CFB-43E2-AB3C-F2E9D5AF89BD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient", "SocketClient\SocketClient.csproj", "{D73538EA-C1DE-490F-9927-19CDBA734AEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecoketServer", "Secoket\SecoketServer.csproj", "{426FAEEE-3CFB-43E2-AB3C-F2E9D5AF89BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{426FAEEE-3CFB-43E2-AB3C-F2E9D5AF89BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426FAEEE-3CFB-43E2-AB3C-F2E9D5AF89BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426FAEEE-3CFB-43E2-AB3C-F2E9D5AF89BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D73538EA-C1DE-490F-9927-19CDBA734AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D73538EA-C1DE-490F-9927-19CDBA734AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D73538EA-C1DE-490F-9927-19CDBA734AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D73538EA-C1DE-490F-9927-19CDBA734AEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
